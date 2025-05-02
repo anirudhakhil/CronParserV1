@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CronExpressionParserTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2025-04-10T09:40:56" hostname="HYD-ANIKOT-AP" time="0.1">
+  <properties/>
+  <testcase name="testOutOfRangeForDayOfMonth()" classname="org.example.CronExpressionParserTest" time="0.043"/>
+  <testcase name="testInvalidStep()" classname="org.example.CronExpressionParserTest" time="0.003"/>
+  <testcase name="testUnsortedValues()" classname="org.example.CronExpressionParserTest" time="0.003"/>
+  <testcase name="testOutOfRangeForHour()" classname="org.example.CronExpressionParserTest" time="0.002"/>
+  <testcase name="testSubExpressionParsing_rangeAndStep()" classname="org.example.CronExpressionParserTest" time="0.001"/>
+  <testcase name="testRangeParsing()" classname="org.example.CronExpressionParserTest" time="0.001"/>
+  <testcase name="testSubExpressionParsing_plainNumberAndRange()" classname="org.example.CronExpressionParserTest" time="0.001"/>
+  <testcase name="testWildcardParsing()" classname="org.example.CronExpressionParserTest" time="0.003"/>
+  <testcase name="testStepValueAsZero()" classname="org.example.CronExpressionParserTest" time="0.002"/>
+  <testcase name="testValidCronExpression()" classname="org.example.CronExpressionParserTest" time="0.002"/>
+  <testcase name="testOverlappingValues()" classname="org.example.CronExpressionParserTest" time="0.002"/>
+  <testcase name="testNonNumericValues()" classname="org.example.CronExpressionParserTest" time="0.002"/>
+  <testcase name="testInvalidCronExpression()" classname="org.example.CronExpressionParserTest" time="0.003"/>
+  <testcase name="testInvalidRange()" classname="org.example.CronExpressionParserTest" time="0.002"/>
+  <testcase name="testInvalidRangeOutOfBounds()" classname="org.example.CronExpressionParserTest" time="0.003"/>
+  <testcase name="testSingleValueParsing()" classname="org.example.CronExpressionParserTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
